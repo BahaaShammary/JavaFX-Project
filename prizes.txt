@@ -1,0 +1,5 @@
+Hotel Stay  5  Grapefruit
+1000  3  Apple
+10000  5  Grape
+Trip to Donegal  4  Pear
+Trip to Caribbean  4  Banana
